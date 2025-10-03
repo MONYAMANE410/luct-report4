@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LUCT-REPORT3/static/css/main.7edc3222.css",
+    "main.js": "/LUCT-REPORT3/static/js/main.ab7780a1.js",
+    "index.html": "/LUCT-REPORT3/index.html",
+    "main.7edc3222.css.map": "/LUCT-REPORT3/static/css/main.7edc3222.css.map",
+    "main.ab7780a1.js.map": "/LUCT-REPORT3/static/js/main.ab7780a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7edc3222.css",
+    "static/js/main.ab7780a1.js"
+  ]
+}
